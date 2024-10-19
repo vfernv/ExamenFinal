@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "356757762657",
+    "project_id": "examenfinal-75961",
+    "storage_bucket": "examenfinal-75961.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:356757762657:android:0f6b4e94c4517e8f71b020",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBF5wqJCBrA3fSpsB9bYYWMDYGiNj4BdL8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
